@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Ravi </h2>
+<div style="width: 100%;">
+  <img src="header.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 ###
 
@@ -28,11 +30,16 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+<div align="left" >
+  <a href="https://x.com/ravivadher_03/">
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
+  </a>
+  <a href="mailto:vadherravi672@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vadherravi/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
